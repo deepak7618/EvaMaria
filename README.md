@@ -60,6 +60,7 @@ You can deploy this bot anywhere.
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/lStAPw)
 </p>
 </details>
 
